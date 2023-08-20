@@ -1,2 +1,0 @@
-buat file hello.txt
-hello world saja
